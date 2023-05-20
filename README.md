@@ -27,7 +27,7 @@ style.css
 ![button event handler:animation](https://github.com/JCPTrevillian/rental-website/assets/95890754/a75835a5-894e-45c0-b4d7-e4ba04945333)
 \
 \
-**Original images were different sizes. Resize and target lower 10% of screen blank edge to edge across so toggle dots are more obvious** 
+**Original images were different sizes. Resize and leave lower 10% of screen blank edge to edge so toggle dots are more obvious** 
 \
 \
 *style.css*
