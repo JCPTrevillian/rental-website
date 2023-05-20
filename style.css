@@ -60,6 +60,7 @@ button{
     overflow: hidden;
 }
 .col-2 img{
+    height: 80%;
     width: 100%;
 }
 
