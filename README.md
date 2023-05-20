@@ -1,5 +1,5 @@
 # rental-website
-**Rental website landing page**
+**Rental website landing page HTML | CSS | JAVASCRIPT**
 \
 \
 **Final Rendering** 
